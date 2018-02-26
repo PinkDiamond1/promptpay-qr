@@ -108,6 +108,13 @@ These libraries are written by other developers:
 - PHP: [kittinan/php-promptpay-qr](https://github.com/kittinan/php-promptpay-qr)
 
 
+## Integrations with other software
+
+These plugins/integrations are written by other developers:
+
+- WordPress: [woodpeckerr/promptpay](https://github.com/woodpeckerr/promptpay) (supports shortcodes and integration with WooCommerce)
+
+
 ## License
 
 [The MIT License](https://github.com/dtinth/promptpay-qr/blob/master/LICENSE)
